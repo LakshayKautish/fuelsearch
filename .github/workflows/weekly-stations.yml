@@ -1,0 +1,37 @@
+# Sundays 20:30 UTC (2 AM IST Monday): crawl pump directories, a few states per run, resumable.
+name: weekly-stations
+on:
+  schedule:
+    - cron: "30 20 * * 0"
+  workflow_dispatch:
+    inputs:
+      path: { description: "state or state/district, e.g. haryana or haryana/kaithal", required: false }
+permissions:
+  contents: write
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install requests beautifulsoup4
+      - name: Crawl
+        run: |
+          if [ -n "${{ github.event.inputs.path }}" ]; then
+            python crawl_stations.py --state "${{ github.event.inputs.path }}" --max-pages 4000
+          else
+            # rotate through states listed in data/crawl_queue.txt, three per week
+            for s in $(head -n 3 data/crawl_queue.txt); do
+              python crawl_stations.py --state "$s" --max-pages 4000 --osm "$s" || true
+            done
+            (tail -n +4 data/crawl_queue.txt; head -n 3 data/crawl_queue.txt) > q && mv q data/crawl_queue.txt
+          fi
+      - name: Commit stations
+        run: |
+          git config user.name "fuelsearch-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "Station directory update $(date -u +%F)"
+          git push

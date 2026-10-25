@@ -1,0 +1,141 @@
+city,state,lat,lon,cardekho_slug
+Delhi,Delhi,28.61,77.21,new-delhi
+Mumbai,Maharashtra,19.08,72.88,mumbai
+Kolkata,West Bengal,22.57,88.36,kolkata
+Chennai,Tamil Nadu,13.08,80.27,chennai
+Bengaluru,Karnataka,12.97,77.59,bangalore
+Hyderabad,Telangana,17.39,78.49,hyderabad
+Gurugram,Haryana,28.46,77.03,gurgaon
+Bhubaneswar,Odisha,20.3,85.82,bhubaneswar
+Chandigarh,Chandigarh,30.73,76.78,chandigarh
+Jaipur,Rajasthan,26.91,75.79,jaipur
+Lucknow,Uttar Pradesh,26.85,80.95,lucknow
+Patna,Bihar,25.59,85.14,patna
+Thiruvananthapuram,Kerala,8.52,76.94,trivandrum
+Pune,Maharashtra,18.52,73.86,pune
+Thane,Maharashtra,19.22,72.98,thane
+Navi Mumbai,Maharashtra,19.03,73.03,navi-mumbai
+Nagpur,Maharashtra,21.15,79.09,nagpur
+Nashik,Maharashtra,20.0,73.79,nashik
+Aurangabad,Maharashtra,19.88,75.34,aurangabad
+Kolhapur,Maharashtra,16.7,74.24,kolhapur
+Solapur,Maharashtra,17.66,75.91,solapur
+Ahmedabad,Gujarat,23.02,72.57,ahmedabad
+Surat,Gujarat,21.17,72.83,surat
+Vadodara,Gujarat,22.31,73.18,vadodara
+Gandhinagar,Gujarat,23.22,72.65,gandhinagar
+Jamnagar,Gujarat,22.47,70.06,jamnagar
+Bhavnagar,Gujarat,21.76,72.15,bhavnagar
+Faridabad,Haryana,28.41,77.32,faridabad
+Panipat,Haryana,29.39,76.97,panipat
+Karnal,Haryana,29.69,76.99,karnal
+Rohtak,Haryana,28.9,76.61,rohtak
+Ambala,Haryana,30.38,76.78,ambala
+Shimla,Himachal Pradesh,31.1,77.17,shimla
+Una,Himachal Pradesh,31.47,76.27,una
+Mandi,Himachal Pradesh,31.71,76.93,mandi
+Jammu,Jammu and Kashmir,32.73,74.86,jammu
+Srinagar,Jammu and Kashmir,34.08,74.8,srinagar
+Leh,Ladakh,34.15,77.58,leh
+Ludhiana,Punjab,30.9,75.86,ludhiana
+Amritsar,Punjab,31.63,74.87,amritsar
+Jalandhar,Punjab,31.33,75.58,jalandhar
+Patiala,Punjab,30.34,76.39,patiala
+Mohali,Punjab,30.7,76.72,mohali
+Bathinda,Punjab,30.21,74.95,bathinda
+Jodhpur,Rajasthan,26.24,73.02,jodhpur
+Udaipur,Rajasthan,24.59,73.71,udaipur
+Kota,Rajasthan,25.21,75.86,kota
+Ajmer,Rajasthan,26.45,74.64,ajmer
+Bikaner,Rajasthan,28.02,73.31,bikaner
+Kanpur,Uttar Pradesh,26.45,80.33,kanpur
+Agra,Uttar Pradesh,27.18,78.01,agra
+Ghaziabad,Uttar Pradesh,28.67,77.45,ghaziabad
+Greater Noida,Uttar Pradesh,28.47,77.5,greater-noida
+Meerut,Uttar Pradesh,28.98,77.71,meerut
+Prayagraj,Uttar Pradesh,25.44,81.85,allahabad
+Gorakhpur,Uttar Pradesh,26.76,83.37,gorakhpur
+Mathura,Uttar Pradesh,27.49,77.67,mathura
+Jhansi,Uttar Pradesh,25.45,78.57,jhansi
+Bareilly,Uttar Pradesh,28.37,79.43,bareilly
+Bhopal,Madhya Pradesh,23.26,77.41,bhopal
+Indore,Madhya Pradesh,22.72,75.86,indore
+Gwalior,Madhya Pradesh,26.22,78.18,gwalior
+Jabalpur,Madhya Pradesh,23.18,79.99,jabalpur
+Ujjain,Madhya Pradesh,23.18,75.78,ujjain
+Rewa,Madhya Pradesh,24.53,81.3,rewa
+Raipur,Chhattisgarh,21.25,81.63,raipur
+Bilaspur,Chhattisgarh,22.08,82.15,bilaspur
+Durg,Chhattisgarh,21.19,81.28,durg
+Korba,Chhattisgarh,22.36,82.75,korba
+Gaya,Bihar,24.79,85.0,gaya
+Muzaffarpur,Bihar,26.12,85.36,muzaffarpur
+Bhagalpur,Bihar,25.24,86.97,bhagalpur
+Darbhanga,Bihar,26.15,85.9,darbhanga
+Ranchi,Jharkhand,23.34,85.31,ranchi
+Jamshedpur,Jharkhand,22.8,86.2,jamshedpur
+Dhanbad,Jharkhand,23.8,86.43,dhanbad
+Bokaro,Jharkhand,23.67,86.15,bokaro
+Cuttack,Odisha,20.46,85.88,cuttack
+Puri,Odisha,19.81,85.83,puri
+Sambalpur,Odisha,21.47,83.97,sambalpur
+Guwahati,Assam,26.14,91.74,guwahati
+Dibrugarh,Assam,27.47,94.91,dibrugarh
+Silchar,Assam,24.83,92.78,silchar
+Jorhat,Assam,26.75,94.2,jorhat
+Shillong,Meghalaya,25.58,91.89,shillong
+Agartala,Tripura,23.83,91.29,agartala
+Aizawl,Mizoram,23.73,92.72,aizawl
+Imphal,Manipur,24.82,93.94,imphal
+Kohima,Nagaland,25.67,94.11,kohima
+Dimapur,Nagaland,25.91,93.73,dimapur
+Itanagar,Arunachal Pradesh,27.08,93.61,itanagar
+Gangtok,Sikkim,27.33,88.61,gangtok
+Port Blair,Andaman and Nicobar,11.62,92.73,port-blair
+Panaji,Goa,15.49,73.83,panaji
+Margao,Goa,15.28,73.96,margao
+Silvassa,Dadra & Nagar Haveli and Daman & Diu,20.27,73.02,silvassa
+Daman,Dadra & Nagar Haveli and Daman & Diu,20.4,72.83,daman
+Puducherry,Puducherry,11.94,79.81,puducherry
+Karaikal,Puducherry,10.92,79.84,karaikal
+Kochi,Kerala,10.01,76.34,kochi
+Kozhikode,Kerala,11.26,75.78,kozhikode
+Thrissur,Kerala,10.53,76.21,thrissur
+Kannur,Kerala,11.87,75.37,kannur
+Kollam,Kerala,8.89,76.61,kollam
+Coimbatore,Tamil Nadu,11.02,76.96,coimbatore
+Madurai,Tamil Nadu,9.93,78.12,madurai
+Tiruchirappalli,Tamil Nadu,10.79,78.7,tiruchirappalli
+Salem,Tamil Nadu,11.66,78.15,salem
+Tirunelveli,Tamil Nadu,8.71,77.76,tirunelveli
+Vellore,Tamil Nadu,12.92,79.13,vellore
+Erode,Tamil Nadu,11.34,77.72,erode
+Mysuru,Karnataka,12.3,76.64,mysore
+Hubballi-Dharwad,Karnataka,15.36,75.12,hubli
+Kalaburagi,Karnataka,17.33,76.83,gulbarga
+Udupi,Karnataka,13.34,74.75,udupi
+Warangal,Telangana,17.97,79.59,warangal
+Karimnagar,Telangana,18.44,79.13,karimnagar
+Nizamabad,Telangana,18.67,78.09,nizamabad
+Khammam,Telangana,17.25,80.15,khammam
+Vijayawada,Andhra Pradesh,16.51,80.65,vijayawada
+Visakhapatnam,Andhra Pradesh,17.69,83.22,visakhapatnam
+Guntur,Andhra Pradesh,16.31,80.44,guntur
+Nellore,Andhra Pradesh,14.44,79.99,nellore
+Kurnool,Andhra Pradesh,15.83,78.04,kurnool
+Kakinada,Andhra Pradesh,16.99,82.25,kakinada
+Ramanagara,Karnataka,12.72,77.28,ramanagara
+Kolar,Karnataka,13.14,78.13,kolar
+Tumakuru,Karnataka,13.34,77.1,tumkur
+Mandya,Karnataka,12.52,76.9,mandya
+Hassan,Karnataka,13.01,76.1,hassan
+Chitradurga,Karnataka,14.23,76.4,chitradurga
+Shivamogga,Karnataka,13.93,75.57,shimoga
+Kaithal,Haryana,29.8,76.4,kaithal
+Kurukshetra,Haryana,29.97,76.85,kurukshetra
+Jind,Haryana,29.32,76.31,jind
+Hisar,Haryana,29.15,75.72,hisar
+Fatehabad,Haryana,29.51,75.45,fatehabad
+Panchkula,Haryana,30.69,76.86,panchkula
+Bhiwani,Haryana,28.8,76.13,bhiwani
+Chikkamagaluru,Karnataka,13.32,75.77,chikmagalur

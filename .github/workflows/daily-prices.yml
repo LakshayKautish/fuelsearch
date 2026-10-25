@@ -1,0 +1,31 @@
+# 00:45 UTC = 6:15 AM IST, after the oil companies' 6:00 AM revision
+# (and after sms_pilot.py has pushed the morning's pump SMS replies).
+name: daily-prices
+on:
+  schedule:
+    - cron: "45 0 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    env:
+      SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+      SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install requests beautifulsoup4
+      - run: python scrape.py
+      - name: Send expected prices to the reports database
+        if: ${{ env.SUPABASE_URL != '' }}
+        run: python tools/upload_expected.py
+      - name: Commit today's prices
+        run: |
+          git config user.name "fuelsearch-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "Prices for $(TZ=Asia/Kolkata date +%F)"
+          git push

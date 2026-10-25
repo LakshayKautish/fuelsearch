@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+data/station_cache.json
+data/sms_sent.json
+data/omc_sms_inbox.jsonl
+.env
