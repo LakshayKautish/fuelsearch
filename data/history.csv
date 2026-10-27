@@ -545,3 +545,549 @@ date,city,state,fuel,source,price,status
 2026-10-26,Bhiwani,Haryana,diesel,cardekho,96.36,differs
 2026-10-26,Chikkamagaluru,Karnataka,petrol,cardekho,111.94,unverified
 2026-10-26,Chikkamagaluru,Karnataka,diesel,cardekho,99.44,unverified
+2026-10-27,Delhi,Delhi,petrol,mypetrolprice,102.12,verified
+2026-10-27,Delhi,Delhi,petrol,cardekho,102.12,verified
+2026-10-27,Delhi,Delhi,petrol,goodreturns,102.12,verified
+2026-10-27,Delhi,Delhi,diesel,mypetrolprice,95.2,verified
+2026-10-27,Delhi,Delhi,diesel,cardekho,95.2,verified
+2026-10-27,Delhi,Delhi,diesel,goodreturns,95.2,verified
+2026-10-27,Mumbai,Maharashtra,petrol,mypetrolprice,111.21,verified
+2026-10-27,Mumbai,Maharashtra,petrol,cardekho,111.21,verified
+2026-10-27,Mumbai,Maharashtra,petrol,goodreturns,111.21,verified
+2026-10-27,Mumbai,Maharashtra,diesel,mypetrolprice,97.83,verified
+2026-10-27,Mumbai,Maharashtra,diesel,cardekho,97.83,verified
+2026-10-27,Mumbai,Maharashtra,diesel,goodreturns,97.83,verified
+2026-10-27,Kolkata,West Bengal,petrol,mypetrolprice,113.51,verified
+2026-10-27,Kolkata,West Bengal,petrol,cardekho,113.51,verified
+2026-10-27,Kolkata,West Bengal,petrol,goodreturns,113.51,verified
+2026-10-27,Kolkata,West Bengal,diesel,mypetrolprice,99.82,verified
+2026-10-27,Kolkata,West Bengal,diesel,cardekho,99.82,verified
+2026-10-27,Kolkata,West Bengal,diesel,goodreturns,99.82,verified
+2026-10-27,Chennai,Tamil Nadu,petrol,mypetrolprice,107.74,verified
+2026-10-27,Chennai,Tamil Nadu,petrol,cardekho,107.76,verified
+2026-10-27,Chennai,Tamil Nadu,petrol,goodreturns,107.76,verified
+2026-10-27,Chennai,Tamil Nadu,diesel,mypetrolprice,99.55,verified
+2026-10-27,Chennai,Tamil Nadu,diesel,cardekho,99.55,verified
+2026-10-27,Chennai,Tamil Nadu,diesel,goodreturns,99.55,verified
+2026-10-27,Bengaluru,Karnataka,petrol,mypetrolprice,110.93,differs
+2026-10-27,Bengaluru,Karnataka,petrol,cardekho,111.68,differs
+2026-10-27,Bengaluru,Karnataka,petrol,goodreturns,111.68,differs
+2026-10-27,Bengaluru,Karnataka,diesel,mypetrolprice,98.8,differs
+2026-10-27,Bengaluru,Karnataka,diesel,cardekho,99.56,differs
+2026-10-27,Bengaluru,Karnataka,diesel,goodreturns,99.56,differs
+2026-10-27,Hyderabad,Telangana,petrol,mypetrolprice,115.73,differs
+2026-10-27,Hyderabad,Telangana,petrol,cardekho,116.15,differs
+2026-10-27,Hyderabad,Telangana,petrol,goodreturns,116.15,differs
+2026-10-27,Hyderabad,Telangana,diesel,mypetrolprice,103.82,differs
+2026-10-27,Hyderabad,Telangana,diesel,cardekho,104.23,differs
+2026-10-27,Hyderabad,Telangana,diesel,goodreturns,104.23,differs
+2026-10-27,Gurugram,Haryana,petrol,mypetrolprice,102.12,differs
+2026-10-27,Gurugram,Haryana,petrol,cardekho,102.97,differs
+2026-10-27,Gurugram,Haryana,petrol,goodreturns,102.97,differs
+2026-10-27,Gurugram,Haryana,diesel,mypetrolprice,95.2,differs
+2026-10-27,Gurugram,Haryana,diesel,cardekho,95.64,differs
+2026-10-27,Gurugram,Haryana,diesel,goodreturns,95.64,differs
+2026-10-27,Bhubaneswar,Odisha,petrol,mypetrolprice,108.97,verified
+2026-10-27,Bhubaneswar,Odisha,petrol,cardekho,108.97,verified
+2026-10-27,Bhubaneswar,Odisha,petrol,goodreturns,108.97,verified
+2026-10-27,Bhubaneswar,Odisha,diesel,mypetrolprice,100.68,verified
+2026-10-27,Bhubaneswar,Odisha,diesel,cardekho,100.68,verified
+2026-10-27,Bhubaneswar,Odisha,diesel,goodreturns,100.68,verified
+2026-10-27,Chandigarh,Chandigarh,petrol,mypetrolprice,101.54,verified
+2026-10-27,Chandigarh,Chandigarh,petrol,cardekho,101.54,verified
+2026-10-27,Chandigarh,Chandigarh,petrol,goodreturns,101.54,verified
+2026-10-27,Chandigarh,Chandigarh,diesel,mypetrolprice,89.47,verified
+2026-10-27,Chandigarh,Chandigarh,diesel,cardekho,89.47,verified
+2026-10-27,Chandigarh,Chandigarh,diesel,goodreturns,89.47,verified
+2026-10-27,Jaipur,Rajasthan,petrol,mypetrolprice,112.66,differs
+2026-10-27,Jaipur,Rajasthan,petrol,cardekho,113.19,differs
+2026-10-27,Jaipur,Rajasthan,petrol,goodreturns,113.19,differs
+2026-10-27,Jaipur,Rajasthan,diesel,mypetrolprice,97.78,differs
+2026-10-27,Jaipur,Rajasthan,diesel,cardekho,98.25,differs
+2026-10-27,Jaipur,Rajasthan,diesel,goodreturns,98.25,differs
+2026-10-27,Lucknow,Uttar Pradesh,petrol,mypetrolprice,101.86,verified
+2026-10-27,Lucknow,Uttar Pradesh,petrol,cardekho,101.86,verified
+2026-10-27,Lucknow,Uttar Pradesh,petrol,goodreturns,101.86,verified
+2026-10-27,Lucknow,Uttar Pradesh,diesel,mypetrolprice,95.36,verified
+2026-10-27,Lucknow,Uttar Pradesh,diesel,cardekho,95.36,verified
+2026-10-27,Lucknow,Uttar Pradesh,diesel,goodreturns,95.36,verified
+2026-10-27,Patna,Bihar,petrol,mypetrolprice,113.37,verified
+2026-10-27,Patna,Bihar,petrol,cardekho,113.37,verified
+2026-10-27,Patna,Bihar,petrol,goodreturns,113.37,verified
+2026-10-27,Patna,Bihar,diesel,mypetrolprice,99.36,verified
+2026-10-27,Patna,Bihar,diesel,cardekho,99.36,verified
+2026-10-27,Patna,Bihar,diesel,goodreturns,99.36,verified
+2026-10-27,Thiruvananthapuram,Kerala,petrol,mypetrolprice,115.34,verified
+2026-10-27,Thiruvananthapuram,Kerala,petrol,cardekho,115.49,verified
+2026-10-27,Thiruvananthapuram,Kerala,petrol,goodreturns,115.49,verified
+2026-10-27,Thiruvananthapuram,Kerala,diesel,mypetrolprice,104.15,verified
+2026-10-27,Thiruvananthapuram,Kerala,diesel,cardekho,104.4,verified
+2026-10-27,Thiruvananthapuram,Kerala,diesel,goodreturns,104.4,verified
+2026-10-27,Pune,Maharashtra,petrol,mypetrolprice,111.52,differs
+2026-10-27,Pune,Maharashtra,petrol,cardekho,111.9,differs
+2026-10-27,Pune,Maharashtra,diesel,mypetrolprice,98.15,differs
+2026-10-27,Pune,Maharashtra,diesel,cardekho,98.55,differs
+2026-10-27,Thane,Maharashtra,petrol,mypetrolprice,111.38,verified
+2026-10-27,Thane,Maharashtra,petrol,cardekho,111.38,verified
+2026-10-27,Thane,Maharashtra,diesel,mypetrolprice,98.02,verified
+2026-10-27,Thane,Maharashtra,diesel,cardekho,98.02,verified
+2026-10-27,Navi Mumbai,Maharashtra,petrol,mypetrolprice,111.31,conflict
+2026-10-27,Navi Mumbai,Maharashtra,petrol,cardekho,112.43,conflict
+2026-10-27,Navi Mumbai,Maharashtra,diesel,mypetrolprice,97.97,conflict
+2026-10-27,Navi Mumbai,Maharashtra,diesel,cardekho,99.08,conflict
+2026-10-27,Nagpur,Maharashtra,petrol,mypetrolprice,111.72,verified
+2026-10-27,Nagpur,Maharashtra,petrol,cardekho,111.72,verified
+2026-10-27,Nagpur,Maharashtra,diesel,mypetrolprice,98.38,verified
+2026-10-27,Nagpur,Maharashtra,diesel,cardekho,98.38,verified
+2026-10-27,Nashik,Maharashtra,petrol,mypetrolprice,112.46,verified
+2026-10-27,Nashik,Maharashtra,petrol,cardekho,112.44,verified
+2026-10-27,Nashik,Maharashtra,diesel,mypetrolprice,99.07,verified
+2026-10-27,Nashik,Maharashtra,diesel,cardekho,99.05,verified
+2026-10-27,Aurangabad,Maharashtra,petrol,mypetrolprice,112.86,differs
+2026-10-27,Aurangabad,Maharashtra,petrol,cardekho,112.08,differs
+2026-10-27,Aurangabad,Maharashtra,diesel,mypetrolprice,99.48,differs
+2026-10-27,Aurangabad,Maharashtra,diesel,cardekho,98.72,differs
+2026-10-27,Kolhapur,Maharashtra,petrol,mypetrolprice,112.13,differs
+2026-10-27,Kolhapur,Maharashtra,petrol,cardekho,112.6,differs
+2026-10-27,Kolhapur,Maharashtra,diesel,mypetrolprice,98.8,differs
+2026-10-27,Kolhapur,Maharashtra,diesel,cardekho,99.25,differs
+2026-10-27,Solapur,Maharashtra,petrol,mypetrolprice,111.84,verified
+2026-10-27,Solapur,Maharashtra,petrol,cardekho,111.85,verified
+2026-10-27,Solapur,Maharashtra,diesel,mypetrolprice,98.51,verified
+2026-10-27,Solapur,Maharashtra,diesel,cardekho,98.52,verified
+2026-10-27,Ahmedabad,Gujarat,petrol,mypetrolprice,101.83,differs
+2026-10-27,Ahmedabad,Gujarat,petrol,cardekho,102.15,differs
+2026-10-27,Ahmedabad,Gujarat,diesel,mypetrolprice,97.92,differs
+2026-10-27,Ahmedabad,Gujarat,diesel,cardekho,98.27,differs
+2026-10-27,Surat,Gujarat,petrol,mypetrolprice,101.7,verified
+2026-10-27,Surat,Gujarat,petrol,cardekho,101.82,verified
+2026-10-27,Surat,Gujarat,diesel,mypetrolprice,97.82,verified
+2026-10-27,Surat,Gujarat,diesel,cardekho,97.95,verified
+2026-10-27,Vadodara,Gujarat,petrol,mypetrolprice,101.46,verified
+2026-10-27,Vadodara,Gujarat,petrol,cardekho,101.46,verified
+2026-10-27,Vadodara,Gujarat,diesel,mypetrolprice,97.57,verified
+2026-10-27,Vadodara,Gujarat,diesel,cardekho,97.57,verified
+2026-10-27,Gandhinagar,Gujarat,petrol,mypetrolprice,101.93,verified
+2026-10-27,Gandhinagar,Gujarat,petrol,cardekho,102.04,verified
+2026-10-27,Gandhinagar,Gujarat,diesel,mypetrolprice,98.05,verified
+2026-10-27,Gandhinagar,Gujarat,diesel,cardekho,98.15,verified
+2026-10-27,Jamnagar,Gujarat,petrol,mypetrolprice,101.75,differs
+2026-10-27,Jamnagar,Gujarat,petrol,cardekho,102.31,differs
+2026-10-27,Jamnagar,Gujarat,diesel,mypetrolprice,97.86,differs
+2026-10-27,Jamnagar,Gujarat,diesel,cardekho,98.43,differs
+2026-10-27,Bhavnagar,Gujarat,petrol,mypetrolprice,103.41,verified
+2026-10-27,Bhavnagar,Gujarat,petrol,cardekho,103.41,verified
+2026-10-27,Bhavnagar,Gujarat,diesel,mypetrolprice,99.53,verified
+2026-10-27,Bhavnagar,Gujarat,diesel,cardekho,99.53,verified
+2026-10-27,Faridabad,Haryana,petrol,mypetrolprice,103.28,verified
+2026-10-27,Faridabad,Haryana,petrol,cardekho,103.35,verified
+2026-10-27,Faridabad,Haryana,diesel,mypetrolprice,95.94,verified
+2026-10-27,Faridabad,Haryana,diesel,cardekho,96.01,verified
+2026-10-27,Panipat,Haryana,petrol,mypetrolprice,102.25,verified
+2026-10-27,Panipat,Haryana,petrol,cardekho,102.23,verified
+2026-10-27,Panipat,Haryana,diesel,mypetrolprice,94.92,verified
+2026-10-27,Panipat,Haryana,diesel,cardekho,94.89,verified
+2026-10-27,Karnal,Haryana,petrol,mypetrolprice,102.5,verified
+2026-10-27,Karnal,Haryana,petrol,cardekho,102.22,verified
+2026-10-27,Karnal,Haryana,diesel,mypetrolprice,95.16,verified
+2026-10-27,Karnal,Haryana,diesel,cardekho,94.89,verified
+2026-10-27,Rohtak,Haryana,petrol,mypetrolprice,103.03,verified
+2026-10-27,Rohtak,Haryana,petrol,cardekho,103.11,verified
+2026-10-27,Rohtak,Haryana,diesel,mypetrolprice,95.67,verified
+2026-10-27,Rohtak,Haryana,diesel,cardekho,95.75,verified
+2026-10-27,Ambala,Haryana,petrol,mypetrolprice,103.26,verified
+2026-10-27,Ambala,Haryana,petrol,cardekho,103.32,verified
+2026-10-27,Ambala,Haryana,diesel,mypetrolprice,95.9,verified
+2026-10-27,Ambala,Haryana,diesel,cardekho,95.96,verified
+2026-10-27,Shimla,Himachal Pradesh,petrol,mypetrolprice,102.54,differs
+2026-10-27,Shimla,Himachal Pradesh,petrol,cardekho,103.15,differs
+2026-10-27,Shimla,Himachal Pradesh,diesel,mypetrolprice,94.52,differs
+2026-10-27,Shimla,Himachal Pradesh,diesel,cardekho,95.28,differs
+2026-10-27,Una,Himachal Pradesh,petrol,mypetrolprice,100.3,differs
+2026-10-27,Una,Himachal Pradesh,petrol,cardekho,100.91,differs
+2026-10-27,Una,Himachal Pradesh,diesel,mypetrolprice,92.43,differs
+2026-10-27,Una,Himachal Pradesh,diesel,cardekho,93.04,differs
+2026-10-27,Mandi,Himachal Pradesh,petrol,mypetrolprice,101.91,conflict
+2026-10-27,Mandi,Himachal Pradesh,petrol,cardekho,103.19,conflict
+2026-10-27,Mandi,Himachal Pradesh,diesel,mypetrolprice,93.91,conflict
+2026-10-27,Mandi,Himachal Pradesh,diesel,cardekho,95.29,conflict
+2026-10-27,Jammu,Jammu and Kashmir,petrol,mypetrolprice,104.13,unverified
+2026-10-27,Jammu,Jammu and Kashmir,diesel,mypetrolprice,92.81,unverified
+2026-10-27,Srinagar,Jammu and Kashmir,petrol,mypetrolprice,107.97,unverified
+2026-10-27,Srinagar,Jammu and Kashmir,diesel,mypetrolprice,96.14,unverified
+2026-10-27,Leh,Ladakh,petrol,mypetrolprice,106.15,unverified
+2026-10-27,Leh,Ladakh,diesel,mypetrolprice,94.64,unverified
+2026-10-27,Ludhiana,Punjab,petrol,mypetrolprice,105.6,verified
+2026-10-27,Ludhiana,Punjab,petrol,cardekho,105.8,verified
+2026-10-27,Ludhiana,Punjab,diesel,mypetrolprice,95.48,verified
+2026-10-27,Ludhiana,Punjab,diesel,cardekho,95.69,verified
+2026-10-27,Amritsar,Punjab,petrol,mypetrolprice,105.56,verified
+2026-10-27,Amritsar,Punjab,petrol,cardekho,105.56,verified
+2026-10-27,Amritsar,Punjab,diesel,mypetrolprice,95.47,verified
+2026-10-27,Amritsar,Punjab,diesel,cardekho,95.47,verified
+2026-10-27,Jalandhar,Punjab,petrol,mypetrolprice,104.82,verified
+2026-10-27,Jalandhar,Punjab,petrol,cardekho,104.82,verified
+2026-10-27,Jalandhar,Punjab,diesel,mypetrolprice,94.76,verified
+2026-10-27,Jalandhar,Punjab,diesel,cardekho,94.76,verified
+2026-10-27,Patiala,Punjab,petrol,mypetrolprice,105.33,differs
+2026-10-27,Patiala,Punjab,petrol,cardekho,104.94,differs
+2026-10-27,Patiala,Punjab,diesel,mypetrolprice,95.24,differs
+2026-10-27,Patiala,Punjab,diesel,cardekho,94.87,differs
+2026-10-27,Mohali,Punjab,petrol,mypetrolprice,105.88,unverified
+2026-10-27,Mohali,Punjab,diesel,mypetrolprice,95.78,unverified
+2026-10-27,Bathinda,Punjab,petrol,mypetrolprice,104.72,differs
+2026-10-27,Bathinda,Punjab,petrol,cardekho,105.37,differs
+2026-10-27,Bathinda,Punjab,diesel,mypetrolprice,94.66,differs
+2026-10-27,Bathinda,Punjab,diesel,cardekho,95.28,differs
+2026-10-27,Jodhpur,Rajasthan,petrol,mypetrolprice,112.49,verified
+2026-10-27,Jodhpur,Rajasthan,petrol,cardekho,112.49,verified
+2026-10-27,Jodhpur,Rajasthan,diesel,mypetrolprice,97.63,verified
+2026-10-27,Jodhpur,Rajasthan,diesel,cardekho,97.63,verified
+2026-10-27,Udaipur,Rajasthan,petrol,mypetrolprice,113.46,verified
+2026-10-27,Udaipur,Rajasthan,petrol,cardekho,113.37,verified
+2026-10-27,Udaipur,Rajasthan,diesel,mypetrolprice,98.5,verified
+2026-10-27,Udaipur,Rajasthan,diesel,cardekho,98.41,verified
+2026-10-27,Kota,Rajasthan,petrol,mypetrolprice,112.21,verified
+2026-10-27,Kota,Rajasthan,petrol,cardekho,112.21,verified
+2026-10-27,Kota,Rajasthan,diesel,mypetrolprice,97.36,verified
+2026-10-27,Kota,Rajasthan,diesel,cardekho,97.36,verified
+2026-10-27,Ajmer,Rajasthan,petrol,mypetrolprice,112.31,verified
+2026-10-27,Ajmer,Rajasthan,petrol,cardekho,112.31,verified
+2026-10-27,Ajmer,Rajasthan,diesel,mypetrolprice,97.46,verified
+2026-10-27,Ajmer,Rajasthan,diesel,cardekho,97.46,verified
+2026-10-27,Bikaner,Rajasthan,petrol,mypetrolprice,114.15,verified
+2026-10-27,Bikaner,Rajasthan,petrol,cardekho,114.15,verified
+2026-10-27,Bikaner,Rajasthan,diesel,mypetrolprice,99.29,verified
+2026-10-27,Bikaner,Rajasthan,diesel,cardekho,99.29,verified
+2026-10-27,Kanpur,Uttar Pradesh,petrol,mypetrolprice,101.59,differs
+2026-10-27,Kanpur,Uttar Pradesh,petrol,cardekho,102.35,differs
+2026-10-27,Kanpur,Uttar Pradesh,diesel,mypetrolprice,95.06,differs
+2026-10-27,Kanpur,Uttar Pradesh,diesel,cardekho,95.79,differs
+2026-10-27,Agra,Uttar Pradesh,petrol,mypetrolprice,101.54,verified
+2026-10-27,Agra,Uttar Pradesh,petrol,cardekho,101.66,verified
+2026-10-27,Agra,Uttar Pradesh,diesel,mypetrolprice,95.02,verified
+2026-10-27,Agra,Uttar Pradesh,diesel,cardekho,95.14,verified
+2026-10-27,Ghaziabad,Uttar Pradesh,petrol,mypetrolprice,101.88,verified
+2026-10-27,Ghaziabad,Uttar Pradesh,petrol,cardekho,101.88,verified
+2026-10-27,Ghaziabad,Uttar Pradesh,diesel,mypetrolprice,95.36,verified
+2026-10-27,Ghaziabad,Uttar Pradesh,diesel,cardekho,95.36,verified
+2026-10-27,Greater Noida,Uttar Pradesh,petrol,mypetrolprice,102.06,verified
+2026-10-27,Greater Noida,Uttar Pradesh,petrol,cardekho,102.35,verified
+2026-10-27,Greater Noida,Uttar Pradesh,diesel,mypetrolprice,95.54,verified
+2026-10-27,Greater Noida,Uttar Pradesh,diesel,cardekho,95.79,verified
+2026-10-27,Meerut,Uttar Pradesh,petrol,mypetrolprice,101.51,differs
+2026-10-27,Meerut,Uttar Pradesh,petrol,cardekho,101.99,differs
+2026-10-27,Meerut,Uttar Pradesh,diesel,mypetrolprice,95.0,differs
+2026-10-27,Meerut,Uttar Pradesh,diesel,cardekho,95.46,differs
+2026-10-27,Prayagraj,Uttar Pradesh,petrol,mypetrolprice,101.82,differs
+2026-10-27,Prayagraj,Uttar Pradesh,petrol,cardekho,102.35,differs
+2026-10-27,Prayagraj,Uttar Pradesh,diesel,mypetrolprice,95.33,differs
+2026-10-27,Prayagraj,Uttar Pradesh,diesel,cardekho,95.79,differs
+2026-10-27,Gorakhpur,Uttar Pradesh,petrol,mypetrolprice,102.13,verified
+2026-10-27,Gorakhpur,Uttar Pradesh,petrol,cardekho,102.13,verified
+2026-10-27,Gorakhpur,Uttar Pradesh,diesel,mypetrolprice,95.62,verified
+2026-10-27,Gorakhpur,Uttar Pradesh,diesel,cardekho,95.62,verified
+2026-10-27,Mathura,Uttar Pradesh,petrol,mypetrolprice,101.32,verified
+2026-10-27,Mathura,Uttar Pradesh,petrol,cardekho,101.44,verified
+2026-10-27,Mathura,Uttar Pradesh,diesel,mypetrolprice,94.79,verified
+2026-10-27,Mathura,Uttar Pradesh,diesel,cardekho,94.91,verified
+2026-10-27,Jhansi,Uttar Pradesh,petrol,mypetrolprice,101.55,conflict
+2026-10-27,Jhansi,Uttar Pradesh,petrol,cardekho,102.92,conflict
+2026-10-27,Jhansi,Uttar Pradesh,diesel,mypetrolprice,95.03,conflict
+2026-10-27,Jhansi,Uttar Pradesh,diesel,cardekho,96.28,conflict
+2026-10-27,Bareilly,Uttar Pradesh,petrol,mypetrolprice,101.97,verified
+2026-10-27,Bareilly,Uttar Pradesh,petrol,cardekho,101.78,verified
+2026-10-27,Bareilly,Uttar Pradesh,diesel,mypetrolprice,95.46,verified
+2026-10-27,Bareilly,Uttar Pradesh,diesel,cardekho,95.27,verified
+2026-10-27,Bhopal,Madhya Pradesh,petrol,mypetrolprice,114.54,verified
+2026-10-27,Bhopal,Madhya Pradesh,petrol,cardekho,114.54,verified
+2026-10-27,Bhopal,Madhya Pradesh,diesel,mypetrolprice,99.64,verified
+2026-10-27,Bhopal,Madhya Pradesh,diesel,cardekho,99.64,verified
+2026-10-27,Indore,Madhya Pradesh,petrol,mypetrolprice,114.61,verified
+2026-10-27,Indore,Madhya Pradesh,petrol,cardekho,114.58,verified
+2026-10-27,Indore,Madhya Pradesh,diesel,mypetrolprice,99.7,verified
+2026-10-27,Indore,Madhya Pradesh,diesel,cardekho,99.7,verified
+2026-10-27,Gwalior,Madhya Pradesh,petrol,mypetrolprice,114.48,verified
+2026-10-27,Gwalior,Madhya Pradesh,petrol,cardekho,114.27,verified
+2026-10-27,Gwalior,Madhya Pradesh,diesel,mypetrolprice,99.59,verified
+2026-10-27,Gwalior,Madhya Pradesh,diesel,cardekho,99.4,verified
+2026-10-27,Jabalpur,Madhya Pradesh,petrol,mypetrolprice,114.62,conflict
+2026-10-27,Jabalpur,Madhya Pradesh,petrol,cardekho,116.17,conflict
+2026-10-27,Jabalpur,Madhya Pradesh,diesel,mypetrolprice,99.74,conflict
+2026-10-27,Jabalpur,Madhya Pradesh,diesel,cardekho,101.16,conflict
+2026-10-27,Ujjain,Madhya Pradesh,petrol,mypetrolprice,114.9,verified
+2026-10-27,Ujjain,Madhya Pradesh,petrol,cardekho,114.99,verified
+2026-10-27,Ujjain,Madhya Pradesh,diesel,mypetrolprice,100.0,verified
+2026-10-27,Ujjain,Madhya Pradesh,diesel,cardekho,100.06,verified
+2026-10-27,Rewa,Madhya Pradesh,petrol,mypetrolprice,116.02,differs
+2026-10-27,Rewa,Madhya Pradesh,petrol,cardekho,115.47,differs
+2026-10-27,Rewa,Madhya Pradesh,diesel,mypetrolprice,101.16,differs
+2026-10-27,Rewa,Madhya Pradesh,diesel,cardekho,100.51,differs
+2026-10-27,Raipur,Chhattisgarh,petrol,mypetrolprice,108.06,unverified
+2026-10-27,Raipur,Chhattisgarh,diesel,mypetrolprice,101.32,unverified
+2026-10-27,Bilaspur,Chhattisgarh,petrol,mypetrolprice,101.26,unverified
+2026-10-27,Bilaspur,Chhattisgarh,diesel,mypetrolprice,93.32,unverified
+2026-10-27,Durg,Chhattisgarh,petrol,mypetrolprice,108.4,unverified
+2026-10-27,Durg,Chhattisgarh,diesel,mypetrolprice,101.65,unverified
+2026-10-27,Korba,Chhattisgarh,petrol,mypetrolprice,107.74,unverified
+2026-10-27,Korba,Chhattisgarh,diesel,mypetrolprice,101.01,unverified
+2026-10-27,Gaya,Bihar,petrol,mypetrolprice,114.52,verified
+2026-10-27,Gaya,Bihar,petrol,cardekho,114.31,verified
+2026-10-27,Gaya,Bihar,diesel,mypetrolprice,100.46,verified
+2026-10-27,Gaya,Bihar,diesel,cardekho,100.26,verified
+2026-10-27,Muzaffarpur,Bihar,petrol,mypetrolprice,114.1,verified
+2026-10-27,Muzaffarpur,Bihar,petrol,cardekho,114.1,verified
+2026-10-27,Muzaffarpur,Bihar,diesel,mypetrolprice,100.05,verified
+2026-10-27,Muzaffarpur,Bihar,diesel,cardekho,100.05,verified
+2026-10-27,Bhagalpur,Bihar,petrol,mypetrolprice,114.2,verified
+2026-10-27,Bhagalpur,Bihar,petrol,cardekho,114.37,verified
+2026-10-27,Bhagalpur,Bihar,diesel,mypetrolprice,100.14,verified
+2026-10-27,Bhagalpur,Bihar,diesel,cardekho,100.3,verified
+2026-10-27,Darbhanga,Bihar,petrol,mypetrolprice,114.07,verified
+2026-10-27,Darbhanga,Bihar,petrol,cardekho,114.16,verified
+2026-10-27,Darbhanga,Bihar,diesel,mypetrolprice,100.02,verified
+2026-10-27,Darbhanga,Bihar,diesel,cardekho,100.1,verified
+2026-10-27,Ranchi,Jharkhand,petrol,mypetrolprice,105.26,differs
+2026-10-27,Ranchi,Jharkhand,petrol,cardekho,106.19,differs
+2026-10-27,Ranchi,Jharkhand,diesel,mypetrolprice,100.49,differs
+2026-10-27,Ranchi,Jharkhand,diesel,cardekho,101.31,differs
+2026-10-27,Jamshedpur,Jharkhand,petrol,mypetrolprice,105.19,unverified
+2026-10-27,Jamshedpur,Jharkhand,diesel,mypetrolprice,100.42,unverified
+2026-10-27,Dhanbad,Jharkhand,petrol,mypetrolprice,105.22,differs
+2026-10-27,Dhanbad,Jharkhand,petrol,cardekho,105.66,differs
+2026-10-27,Dhanbad,Jharkhand,diesel,mypetrolprice,100.43,differs
+2026-10-27,Dhanbad,Jharkhand,diesel,cardekho,100.86,differs
+2026-10-27,Bokaro,Jharkhand,petrol,mypetrolprice,105.62,verified
+2026-10-27,Bokaro,Jharkhand,petrol,cardekho,105.62,verified
+2026-10-27,Bokaro,Jharkhand,diesel,mypetrolprice,100.77,verified
+2026-10-27,Bokaro,Jharkhand,diesel,cardekho,100.77,verified
+2026-10-27,Cuttack,Odisha,petrol,mypetrolprice,109.33,verified
+2026-10-27,Cuttack,Odisha,petrol,cardekho,109.2,verified
+2026-10-27,Cuttack,Odisha,diesel,mypetrolprice,101.02,verified
+2026-10-27,Cuttack,Odisha,diesel,cardekho,100.9,verified
+2026-10-27,Puri,Odisha,petrol,mypetrolprice,109.27,verified
+2026-10-27,Puri,Odisha,petrol,cardekho,109.27,verified
+2026-10-27,Puri,Odisha,diesel,mypetrolprice,100.97,verified
+2026-10-27,Puri,Odisha,diesel,cardekho,100.97,verified
+2026-10-27,Sambalpur,Odisha,petrol,mypetrolprice,109.63,verified
+2026-10-27,Sambalpur,Odisha,petrol,cardekho,109.63,verified
+2026-10-27,Sambalpur,Odisha,diesel,mypetrolprice,101.34,verified
+2026-10-27,Sambalpur,Odisha,diesel,cardekho,101.34,verified
+2026-10-27,Guwahati,Assam,petrol,mypetrolprice,105.73,verified
+2026-10-27,Guwahati,Assam,petrol,cardekho,105.73,verified
+2026-10-27,Guwahati,Assam,diesel,mypetrolprice,97.23,verified
+2026-10-27,Guwahati,Assam,diesel,cardekho,97.23,verified
+2026-10-27,Dibrugarh,Assam,petrol,mypetrolprice,106.62,verified
+2026-10-27,Dibrugarh,Assam,petrol,cardekho,106.85,verified
+2026-10-27,Dibrugarh,Assam,diesel,mypetrolprice,98.04,verified
+2026-10-27,Dibrugarh,Assam,diesel,cardekho,98.27,verified
+2026-10-27,Silchar,Assam,petrol,mypetrolprice,106.43,unverified
+2026-10-27,Silchar,Assam,diesel,mypetrolprice,97.91,unverified
+2026-10-27,Jorhat,Assam,petrol,mypetrolprice,106.29,verified
+2026-10-27,Jorhat,Assam,petrol,cardekho,106.29,verified
+2026-10-27,Jorhat,Assam,diesel,mypetrolprice,97.74,verified
+2026-10-27,Jorhat,Assam,diesel,cardekho,97.74,verified
+2026-10-27,Shillong,Meghalaya,petrol,mypetrolprice,102.6,verified
+2026-10-27,Shillong,Meghalaya,petrol,cardekho,102.64,verified
+2026-10-27,Shillong,Meghalaya,diesel,mypetrolprice,94.1,verified
+2026-10-27,Shillong,Meghalaya,diesel,cardekho,94.13,verified
+2026-10-27,Agartala,Tripura,petrol,mypetrolprice,104.96,verified
+2026-10-27,Agartala,Tripura,petrol,cardekho,104.96,verified
+2026-10-27,Agartala,Tripura,diesel,mypetrolprice,93.85,verified
+2026-10-27,Agartala,Tripura,diesel,cardekho,93.85,verified
+2026-10-27,Aizawl,Mizoram,petrol,mypetrolprice,106.55,verified
+2026-10-27,Aizawl,Mizoram,petrol,cardekho,106.54,verified
+2026-10-27,Aizawl,Mizoram,diesel,mypetrolprice,95.17,verified
+2026-10-27,Aizawl,Mizoram,diesel,cardekho,95.16,verified
+2026-10-27,Imphal,Manipur,petrol,mypetrolprice,106.87,verified
+2026-10-27,Imphal,Manipur,petrol,cardekho,106.9,verified
+2026-10-27,Imphal,Manipur,diesel,mypetrolprice,92.57,verified
+2026-10-27,Imphal,Manipur,diesel,cardekho,92.59,verified
+2026-10-27,Kohima,Nagaland,petrol,mypetrolprice,104.87,verified
+2026-10-27,Kohima,Nagaland,petrol,cardekho,104.9,verified
+2026-10-27,Kohima,Nagaland,diesel,mypetrolprice,96.16,verified
+2026-10-27,Kohima,Nagaland,diesel,cardekho,96.18,verified
+2026-10-27,Dimapur,Nagaland,petrol,mypetrolprice,103.67,verified
+2026-10-27,Dimapur,Nagaland,petrol,cardekho,103.67,verified
+2026-10-27,Dimapur,Nagaland,diesel,mypetrolprice,95.21,verified
+2026-10-27,Dimapur,Nagaland,diesel,cardekho,95.21,verified
+2026-10-27,Itanagar,Arunachal Pradesh,petrol,mypetrolprice,97.95,verified
+2026-10-27,Itanagar,Arunachal Pradesh,petrol,cardekho,97.96,verified
+2026-10-27,Itanagar,Arunachal Pradesh,diesel,mypetrolprice,87.31,verified
+2026-10-27,Itanagar,Arunachal Pradesh,diesel,cardekho,87.32,verified
+2026-10-27,Gangtok,Sikkim,petrol,mypetrolprice,110.6,verified
+2026-10-27,Gangtok,Sikkim,petrol,cardekho,110.8,verified
+2026-10-27,Gangtok,Sikkim,diesel,mypetrolprice,97.55,verified
+2026-10-27,Gangtok,Sikkim,diesel,cardekho,97.7,verified
+2026-10-27,Port Blair,Andaman and Nicobar,petrol,mypetrolprice,88.66,unverified
+2026-10-27,Port Blair,Andaman and Nicobar,diesel,mypetrolprice,84.56,unverified
+2026-10-27,Panaji,Goa,petrol,mypetrolprice,104.06,unverified
+2026-10-27,Panaji,Goa,diesel,mypetrolprice,95.94,unverified
+2026-10-27,Margao,Goa,petrol,mypetrolprice,103.93,unverified
+2026-10-27,Margao,Goa,diesel,mypetrolprice,95.81,unverified
+2026-10-27,Silvassa,Dadra & Nagar Haveli and Daman & Diu,petrol,mypetrolprice,99.62,verified
+2026-10-27,Silvassa,Dadra & Nagar Haveli and Daman & Diu,petrol,cardekho,99.63,verified
+2026-10-27,Silvassa,Dadra & Nagar Haveli and Daman & Diu,diesel,mypetrolprice,95.51,verified
+2026-10-27,Silvassa,Dadra & Nagar Haveli and Daman & Diu,diesel,cardekho,95.52,verified
+2026-10-27,Daman,Dadra & Nagar Haveli and Daman & Diu,petrol,mypetrolprice,100.46,conflict
+2026-10-27,Daman,Dadra & Nagar Haveli and Daman & Diu,petrol,cardekho,99.44,conflict
+2026-10-27,Daman,Dadra & Nagar Haveli and Daman & Diu,diesel,mypetrolprice,96.35,conflict
+2026-10-27,Daman,Dadra & Nagar Haveli and Daman & Diu,diesel,cardekho,95.33,conflict
+2026-10-27,Karaikal,Puducherry,petrol,mypetrolprice,103.37,verified
+2026-10-27,Karaikal,Puducherry,petrol,cardekho,103.32,verified
+2026-10-27,Karaikal,Puducherry,diesel,mypetrolprice,93.63,verified
+2026-10-27,Karaikal,Puducherry,diesel,cardekho,93.59,verified
+2026-10-27,Kochi,Kerala,petrol,mypetrolprice,113.5,unverified
+2026-10-27,Kochi,Kerala,diesel,mypetrolprice,102.42,unverified
+2026-10-27,Kozhikode,Kerala,petrol,mypetrolprice,113.79,verified
+2026-10-27,Kozhikode,Kerala,petrol,cardekho,113.79,verified
+2026-10-27,Kozhikode,Kerala,diesel,mypetrolprice,102.71,verified
+2026-10-27,Kozhikode,Kerala,diesel,cardekho,102.71,verified
+2026-10-27,Thrissur,Kerala,petrol,mypetrolprice,114.19,differs
+2026-10-27,Thrissur,Kerala,petrol,cardekho,114.62,differs
+2026-10-27,Thrissur,Kerala,diesel,mypetrolprice,103.08,differs
+2026-10-27,Thrissur,Kerala,diesel,cardekho,103.48,differs
+2026-10-27,Kannur,Kerala,petrol,mypetrolprice,113.82,differs
+2026-10-27,Kannur,Kerala,petrol,cardekho,114.59,differs
+2026-10-27,Kannur,Kerala,diesel,mypetrolprice,102.74,differs
+2026-10-27,Kannur,Kerala,diesel,cardekho,103.47,differs
+2026-10-27,Kollam,Kerala,petrol,mypetrolprice,114.92,verified
+2026-10-27,Kollam,Kerala,petrol,cardekho,114.8,verified
+2026-10-27,Kollam,Kerala,diesel,mypetrolprice,103.75,verified
+2026-10-27,Kollam,Kerala,diesel,cardekho,103.64,verified
+2026-10-27,Coimbatore,Tamil Nadu,petrol,mypetrolprice,108.23,differs
+2026-10-27,Coimbatore,Tamil Nadu,petrol,cardekho,108.63,differs
+2026-10-27,Coimbatore,Tamil Nadu,diesel,mypetrolprice,100.06,differs
+2026-10-27,Coimbatore,Tamil Nadu,diesel,cardekho,100.45,differs
+2026-10-27,Madurai,Tamil Nadu,petrol,mypetrolprice,108.47,verified
+2026-10-27,Madurai,Tamil Nadu,petrol,cardekho,108.5,verified
+2026-10-27,Madurai,Tamil Nadu,diesel,mypetrolprice,100.32,verified
+2026-10-27,Madurai,Tamil Nadu,diesel,cardekho,100.34,verified
+2026-10-27,Tiruchirappalli,Tamil Nadu,petrol,mypetrolprice,108.23,unverified
+2026-10-27,Tiruchirappalli,Tamil Nadu,diesel,mypetrolprice,100.05,unverified
+2026-10-27,Salem,Tamil Nadu,petrol,mypetrolprice,108.6,verified
+2026-10-27,Salem,Tamil Nadu,petrol,cardekho,108.6,verified
+2026-10-27,Salem,Tamil Nadu,diesel,mypetrolprice,100.43,verified
+2026-10-27,Salem,Tamil Nadu,diesel,cardekho,100.43,verified
+2026-10-27,Tirunelveli,Tamil Nadu,petrol,mypetrolprice,108.06,differs
+2026-10-27,Tirunelveli,Tamil Nadu,petrol,cardekho,108.67,differs
+2026-10-27,Tirunelveli,Tamil Nadu,diesel,mypetrolprice,99.92,differs
+2026-10-27,Tirunelveli,Tamil Nadu,diesel,cardekho,100.52,differs
+2026-10-27,Vellore,Tamil Nadu,petrol,mypetrolprice,109.06,differs
+2026-10-27,Vellore,Tamil Nadu,petrol,cardekho,108.45,differs
+2026-10-27,Vellore,Tamil Nadu,diesel,mypetrolprice,100.84,differs
+2026-10-27,Vellore,Tamil Nadu,diesel,cardekho,100.24,differs
+2026-10-27,Erode,Tamil Nadu,petrol,mypetrolprice,108.33,differs
+2026-10-27,Erode,Tamil Nadu,petrol,cardekho,108.67,differs
+2026-10-27,Erode,Tamil Nadu,diesel,mypetrolprice,100.16,differs
+2026-10-27,Erode,Tamil Nadu,diesel,cardekho,100.48,differs
+2026-10-27,Mysuru,Karnataka,petrol,mypetrolprice,110.44,verified
+2026-10-27,Mysuru,Karnataka,petrol,cardekho,110.44,verified
+2026-10-27,Mysuru,Karnataka,diesel,mypetrolprice,98.39,verified
+2026-10-27,Mysuru,Karnataka,diesel,cardekho,98.39,verified
+2026-10-27,Hubballi-Dharwad,Karnataka,petrol,mypetrolprice,110.71,verified
+2026-10-27,Hubballi-Dharwad,Karnataka,petrol,cardekho,110.71,verified
+2026-10-27,Hubballi-Dharwad,Karnataka,diesel,mypetrolprice,98.66,verified
+2026-10-27,Hubballi-Dharwad,Karnataka,diesel,cardekho,98.66,verified
+2026-10-27,Kalaburagi,Karnataka,petrol,mypetrolprice,110.66,verified
+2026-10-27,Kalaburagi,Karnataka,petrol,cardekho,110.75,verified
+2026-10-27,Kalaburagi,Karnataka,diesel,mypetrolprice,98.61,verified
+2026-10-27,Kalaburagi,Karnataka,diesel,cardekho,98.7,verified
+2026-10-27,Udupi,Karnataka,petrol,mypetrolprice,110.38,verified
+2026-10-27,Udupi,Karnataka,petrol,cardekho,110.56,verified
+2026-10-27,Udupi,Karnataka,diesel,mypetrolprice,98.29,verified
+2026-10-27,Udupi,Karnataka,diesel,cardekho,98.46,verified
+2026-10-27,Warangal,Telangana,petrol,mypetrolprice,115.13,differs
+2026-10-27,Warangal,Telangana,petrol,cardekho,115.62,differs
+2026-10-27,Warangal,Telangana,diesel,mypetrolprice,103.29,differs
+2026-10-27,Warangal,Telangana,diesel,cardekho,103.74,differs
+2026-10-27,Karimnagar,Telangana,petrol,mypetrolprice,115.81,unverified
+2026-10-27,Karimnagar,Telangana,diesel,mypetrolprice,103.92,unverified
+2026-10-27,Nizamabad,Telangana,petrol,mypetrolprice,117.07,verified
+2026-10-27,Nizamabad,Telangana,petrol,cardekho,117.07,verified
+2026-10-27,Nizamabad,Telangana,diesel,mypetrolprice,105.22,verified
+2026-10-27,Nizamabad,Telangana,diesel,cardekho,105.22,verified
+2026-10-27,Khammam,Telangana,petrol,mypetrolprice,115.72,verified
+2026-10-27,Khammam,Telangana,petrol,cardekho,115.72,verified
+2026-10-27,Khammam,Telangana,diesel,mypetrolprice,103.82,verified
+2026-10-27,Khammam,Telangana,diesel,cardekho,103.82,verified
+2026-10-27,Vijayawada,Andhra Pradesh,petrol,mypetrolprice,117.25,verified
+2026-10-27,Vijayawada,Andhra Pradesh,petrol,cardekho,117.25,verified
+2026-10-27,Vijayawada,Andhra Pradesh,diesel,mypetrolprice,104.96,verified
+2026-10-27,Vijayawada,Andhra Pradesh,diesel,cardekho,104.96,verified
+2026-10-27,Visakhapatnam,Andhra Pradesh,petrol,mypetrolprice,116.64,verified
+2026-10-27,Visakhapatnam,Andhra Pradesh,petrol,cardekho,116.39,verified
+2026-10-27,Visakhapatnam,Andhra Pradesh,diesel,mypetrolprice,104.34,verified
+2026-10-27,Visakhapatnam,Andhra Pradesh,diesel,cardekho,104.11,verified
+2026-10-27,Guntur,Andhra Pradesh,petrol,mypetrolprice,117.68,verified
+2026-10-27,Guntur,Andhra Pradesh,petrol,cardekho,117.68,verified
+2026-10-27,Guntur,Andhra Pradesh,diesel,mypetrolprice,105.36,verified
+2026-10-27,Guntur,Andhra Pradesh,diesel,cardekho,105.36,verified
+2026-10-27,Nellore,Andhra Pradesh,petrol,mypetrolprice,118.14,verified
+2026-10-27,Nellore,Andhra Pradesh,petrol,cardekho,118.14,verified
+2026-10-27,Nellore,Andhra Pradesh,diesel,mypetrolprice,105.73,verified
+2026-10-27,Nellore,Andhra Pradesh,diesel,cardekho,105.73,verified
+2026-10-27,Kurnool,Andhra Pradesh,petrol,mypetrolprice,117.95,verified
+2026-10-27,Kurnool,Andhra Pradesh,petrol,cardekho,117.95,verified
+2026-10-27,Kurnool,Andhra Pradesh,diesel,mypetrolprice,105.61,verified
+2026-10-27,Kurnool,Andhra Pradesh,diesel,cardekho,105.61,verified
+2026-10-27,Kakinada,Andhra Pradesh,petrol,mypetrolprice,118.1,verified
+2026-10-27,Kakinada,Andhra Pradesh,petrol,cardekho,118.1,verified
+2026-10-27,Kakinada,Andhra Pradesh,diesel,mypetrolprice,105.7,verified
+2026-10-27,Kakinada,Andhra Pradesh,diesel,cardekho,105.7,verified
+2026-10-27,Ramanagara,Karnataka,petrol,mypetrolprice,111.21,verified
+2026-10-27,Ramanagara,Karnataka,petrol,cardekho,111.11,verified
+2026-10-27,Ramanagara,Karnataka,diesel,mypetrolprice,99.11,verified
+2026-10-27,Ramanagara,Karnataka,diesel,cardekho,99.01,verified
+2026-10-27,Kolar,Karnataka,petrol,mypetrolprice,110.91,differs
+2026-10-27,Kolar,Karnataka,petrol,cardekho,111.37,differs
+2026-10-27,Kolar,Karnataka,diesel,mypetrolprice,98.82,differs
+2026-10-27,Kolar,Karnataka,diesel,cardekho,99.25,differs
+2026-10-27,Tumakuru,Karnataka,petrol,mypetrolprice,111.8,verified
+2026-10-27,Tumakuru,Karnataka,petrol,cardekho,112.06,verified
+2026-10-27,Tumakuru,Karnataka,diesel,mypetrolprice,99.65,differs
+2026-10-27,Tumakuru,Karnataka,diesel,cardekho,99.99,differs
+2026-10-27,Mandya,Karnataka,petrol,mypetrolprice,110.73,verified
+2026-10-27,Mandya,Karnataka,petrol,cardekho,110.73,verified
+2026-10-27,Mandya,Karnataka,diesel,mypetrolprice,98.66,verified
+2026-10-27,Mandya,Karnataka,diesel,cardekho,98.66,verified
+2026-10-27,Hassan,Karnataka,petrol,mypetrolprice,110.86,differs
+2026-10-27,Hassan,Karnataka,petrol,cardekho,111.23,differs
+2026-10-27,Hassan,Karnataka,diesel,mypetrolprice,98.58,differs
+2026-10-27,Hassan,Karnataka,diesel,cardekho,98.94,differs
+2026-10-27,Chitradurga,Karnataka,petrol,mypetrolprice,112.12,verified
+2026-10-27,Chitradurga,Karnataka,petrol,cardekho,112.09,verified
+2026-10-27,Chitradurga,Karnataka,diesel,mypetrolprice,100.08,verified
+2026-10-27,Chitradurga,Karnataka,diesel,cardekho,100.07,verified
+2026-10-27,Shivamogga,Karnataka,petrol,mypetrolprice,112.09,conflict
+2026-10-27,Shivamogga,Karnataka,petrol,cardekho,110.53,conflict
+2026-10-27,Shivamogga,Karnataka,diesel,mypetrolprice,99.93,conflict
+2026-10-27,Shivamogga,Karnataka,diesel,cardekho,98.47,conflict
+2026-10-27,Kaithal,Haryana,petrol,mypetrolprice,102.83,verified
+2026-10-27,Kaithal,Haryana,petrol,cardekho,102.96,verified
+2026-10-27,Kaithal,Haryana,diesel,mypetrolprice,95.48,verified
+2026-10-27,Kaithal,Haryana,diesel,cardekho,95.61,verified
+2026-10-27,Kurukshetra,Haryana,petrol,mypetrolprice,102.78,verified
+2026-10-27,Kurukshetra,Haryana,petrol,cardekho,102.75,verified
+2026-10-27,Kurukshetra,Haryana,diesel,mypetrolprice,95.43,verified
+2026-10-27,Kurukshetra,Haryana,diesel,cardekho,95.41,verified
+2026-10-27,Jind,Haryana,petrol,mypetrolprice,102.78,verified
+2026-10-27,Jind,Haryana,petrol,cardekho,102.97,verified
+2026-10-27,Jind,Haryana,diesel,mypetrolprice,95.43,verified
+2026-10-27,Jind,Haryana,diesel,cardekho,95.62,verified
+2026-10-27,Hisar,Haryana,petrol,cardekho,103.53,unverified
+2026-10-27,Hisar,Haryana,diesel,cardekho,96.17,unverified
+2026-10-27,Fatehabad,Haryana,petrol,mypetrolprice,103.57,verified
+2026-10-27,Fatehabad,Haryana,petrol,cardekho,103.59,verified
+2026-10-27,Fatehabad,Haryana,diesel,mypetrolprice,96.2,verified
+2026-10-27,Fatehabad,Haryana,diesel,cardekho,96.22,verified
+2026-10-27,Panchkula,Haryana,petrol,mypetrolprice,103.61,differs
+2026-10-27,Panchkula,Haryana,petrol,cardekho,103.14,differs
+2026-10-27,Panchkula,Haryana,diesel,mypetrolprice,96.24,differs
+2026-10-27,Panchkula,Haryana,diesel,cardekho,95.78,differs
+2026-10-27,Bhiwani,Haryana,petrol,mypetrolprice,103.29,differs
+2026-10-27,Bhiwani,Haryana,petrol,cardekho,103.71,differs
+2026-10-27,Bhiwani,Haryana,diesel,mypetrolprice,95.95,differs
+2026-10-27,Bhiwani,Haryana,diesel,cardekho,96.36,differs
+2026-10-27,Chikkamagaluru,Karnataka,petrol,cardekho,111.94,unverified
+2026-10-27,Chikkamagaluru,Karnataka,diesel,cardekho,99.44,unverified
